@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Bodhdipta Roy. I am currently pursuing B.Tech in Computer Science & Engineering. I have an interest in Web & App Development.
 
 <!--
 **bodhdipta-roy/bodhdipta-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Badges
 [![An image of @bodhdiptaroy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bodhdiptaroy)](https://holopin.io/@bodhdiptaroy)
