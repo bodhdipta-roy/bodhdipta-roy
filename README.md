@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Bodhdipta Roy. I am currently pursuing B.Tech in Computer Science & Engineering. I have an interest in Web & App Development.
+I am Bodhdipta Roy. I am currently pursuing B.Tech in Computer Science & Engineering. I have an interest in Web & App Development as well as AI/ML Projects.
 
 - 🎓 Kalinga Institute of Industrial Technology: B.Tech, Computer Science & Engineering. (2026)
 - 🎒 Sri Aurobindo Institute of Education (2021)
