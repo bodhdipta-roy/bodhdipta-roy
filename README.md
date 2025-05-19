@@ -4,6 +4,7 @@ I am Bodhdipta Roy. I am currently pursuing B.Tech in Computer Science & Enginee
 
 - 🎓 Kalinga Institute of Industrial Technology: B.Tech, Computer Science & Engineering. (2026)
 - 🎒 Sri Aurobindo Institute of Education (2021)
+- **Resume**: https://drive.google.com/file/d/1hRmJx3C0XYiYhyUJWXIFj-HxuHz3ksPd/view?usp=sharing
 
 <!--
 **bodhdipta-roy/bodhdipta-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
